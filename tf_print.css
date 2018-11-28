@@ -95,7 +95,7 @@ a {
 }
 
 a::after {
-    content: “ (“ attr(href) “) “;
+    content: " ("attr(href) ") ";
     font-weight: bold;
     word-wrap: break-word;
 }
